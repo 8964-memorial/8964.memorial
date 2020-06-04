@@ -3,3 +3,4 @@ npm-debug.log
 src/config/config.json
 node_modules/
 .yarn/
+build/

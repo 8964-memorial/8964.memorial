@@ -13,7 +13,7 @@ import "firebase/database";
 import { v4 as uuidv4 } from 'uuid';
 import candle from "./assets/candlegif3.gif";
 
-import firebaseConfig from ('./config/config.json');
+import firebaseConfig from './config/config.json';
 
 firebase.initializeApp(firebaseConfig);
 
